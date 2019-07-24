@@ -1,1 +1,1 @@
-A dating app for dogs.
+A dating site for dogs.
